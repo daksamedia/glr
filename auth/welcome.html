@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+	<title>Your account has been activated | Gelaro</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.4/dist/css/bootstrap.css">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900" rel="stylesheet">
+	<style>
+	.row-reset{
+		background:white;  padding:20px; min-height:40vh; border-radius:20px;
+		font-family: 'Source Sans Pro', sans-serif; display:flex; align-items:center; justify-content:center;
+	}
+	.btn-yellow{
+		background:#ffe400; color:black; margin:30px auto; border:none; border-radius:40px; padding:10px 20px; font-weight:bold; outline:none;
+	}
+	
+	input{
+		width:100%; padding:13px 10px; border-radius:20px; border:none; background:#fafafa; outline:none;
+	}
+	
+	.section-reset{
+		background: #ad5389;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+		 height:100vh; display:flex; align-items:center; justify-content:center;
+	}
+	
+	.container-reset{
+		max-width:450px;
+	}
+	
+	.success_state img{
+		width:40%; margin-top:10px;
+	}
+	
+	.logo-fixed img{
+		margin-top:13px; position:fixed; left:20px;
+		width:110px; height:56px;
+	}
+	
+	::-moz-selection { background:#ffd400; color:#444; }
+::selection { background:#ffd400; color:#444; }	
+
+	@media only screen and (min-width: 400px) {
+		.container-reset{
+			max-width:unset;
+		}
+		
+		.logo-fixed img{
+			width: 21%;
+			height: initial;
+		}
+		
+		.row-reset{
+			width:100%;
+			height:80vh;
+			padding: 5px;
+		}
+		
+		.success_state img{
+			width:70%; margin-top:10px;
+			margin-bottom:20px;
+		}
+		
+		.success_state h3{
+			font-size:4vw;
+		}
+		
+		.success_state p{
+			font-size:3vw;
+		}
+		
+		.success_state .go_login{
+			font-size:3vw;
+			padding:15px 40px;
+			width:60%;
+		}
+	}
+	</style>
+</head>
+<body>
+<div class="logo-fixed">
+	<img src="http://gelaro.id/img/logo-wht.png" style="" />
+</div>
+<section class="section-reset">
+	<div class="container container-reset">
+		<div class="row row-reset">
+			<div class="col-xs-12 success_state" style="text-align:center;">
+				<img src="https://secure.webtoolhub.com/static/resources/icons/set112/b2fcb9aa.png" width= />
+				<h3 style="margin:26px 0 4px; font-weight:bold;">
+					Welcome to Gelaro.
+				</h3>
+				<p>Your account has been activated.</p>
+				<button class="btn-yellow go_login">
+					Login Now
+				</button>
+			</div>
+		</div>
+	</div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.4/dist/js/bootstrap.min.js"></script>
+<script>
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+};
+
+</script>
+</body>
+</html>

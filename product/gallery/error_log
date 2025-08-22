@@ -1,0 +1,298 @@
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:32:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:34:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:36:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:38:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:41:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:41:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:44:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:44:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:45:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:47:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:55:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:55:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(../objects/User.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/User.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(../objects/Gallery.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Gallery.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 15
+[13-Aug-2024 16:59:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 19
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:59:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 16:59:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:01:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:01:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:01:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:02:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 12
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Warning:  include_once(../objects/Product.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 13
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Warning:  include_once(../objects/Rating.php): failed to open stream: No such file or directory in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../objects/Rating.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 14
+[13-Aug-2024 17:02:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/daksamed/public_html/gelaro/api/product/gallery/read.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/daksamed/public_html/gelaro/api/product/gallery/read.php on line 18
