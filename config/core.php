@@ -9,7 +9,7 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 //home page url
-$server_url="https://".$_SERVER['SERVER_NAME']."/gelaro"."/";
+$server_url="https://daksameedia.com/gelaro/";
 // $home_url="/home/daksamed/public_html/gelaro/API";
 $home_url="https://gelaro.id/";
 

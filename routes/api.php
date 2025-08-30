@@ -38,7 +38,7 @@ Route::post('product/search_filter', [VendorController::class, 'searchFilter']);
 Route::post('booking/create', [BookingController::class, 'store']);
 
 // Protected routes
-Route::middleware('auth:api')->group(function () {
+Route::middleware('auth.jwt')->group(function () {
     // Auth routes
     Route::prefix('auth')->group(function () {
         Route::get('get_data', [AuthController::class, 'me']);
