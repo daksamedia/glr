@@ -12,11 +12,15 @@ class Category extends Model
     protected $fillable = [
         'name',
         'description',
-        'icon',
     ];
 
     public function vendors()
     {
         return $this->hasMany(Vendor::class);
+    }
+
+    public function getVendorsCountAttribute()
+    {
+        return $this->vendors()->count();
     }
 }
